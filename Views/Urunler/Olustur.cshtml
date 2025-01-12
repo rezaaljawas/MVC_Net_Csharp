@@ -1,0 +1,44 @@
+﻿@model WebApplication.Models.Urun
+
+@{
+    ViewData["Title"] = "Ürün Oluştur";
+}
+
+<h1 class="text-center mb-4">Ürün Oluştur</h1>
+
+<form asp-action="Olustur" class="col-md-6 mx-auto">
+    <div class="form-group mb-3">
+        <label asp-for="Adi" class="form-label">Ürün Adı</label>
+        <input asp-for="Adi" class="form-control" placeholder="Ürün adını girin" />
+        <span asp-validation-for="Adi" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Aciklama" class="form-label">Açıklama</label>
+        <textarea asp-for="Aciklama" class="form-control" rows="4" placeholder="Ürün açıklamasını girin"></textarea>
+        <span asp-validation-for="Aciklama" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Fiyat" class="form-label">Fiyat</label>
+        <input asp-for="Fiyat" class="form-control" placeholder="Ürün fiyatını girin" />
+        <span asp-validation-for="Fiyat" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Stok" class="form-label">Stok Miktarı</label>
+        <input asp-for="Stok" class="form-control" placeholder="Stok miktarını girin" />
+        <span asp-validation-for="Stok" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Kategori" class="form-label">Kategori</label>
+        <input asp-for="Kategori" class="form-control" placeholder="Ürün kategorisini girin" />
+        <span asp-validation-for="Kategori" class="text-danger"></span>
+    </div>
+
+    <div class="d-flex justify-content-between">
+        <button type="submit" class="btn btn-success">Kaydet</button>
+        <a asp-action="Index" class="btn btn-secondary">İptal</a>
+    </div>
+</form>

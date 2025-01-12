@@ -1,0 +1,36 @@
+﻿@model WebApplication.Models.Urun
+@{
+    ViewData["Title"] = "Ürünü Sil";
+}
+
+<h1 class="text-center mb-4">Ürünü Sil</h1>
+
+<div class="alert alert-warning text-center" role="alert">
+    <h3>Bu ürünü silmek istediğinize emin misiniz?</h3>
+</div>
+
+<div class="card mb-4">
+    <div class="card-header bg-warning text-white">
+        <h4>Ürün Detayları</h4>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Adı</dt>
+            <dd class="col-sm-9">@Model.Adi</dd>
+
+            <dt class="col-sm-3">Fiyat</dt>
+            <dd class="col-sm-9">@Model.Fiyat</dd>
+
+            <dt class="col-sm-3">Stok</dt>
+            <dd class="col-sm-9">@Model.Stok</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="d-flex justify-content-between">
+    <form asp-action="SilOnayli">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Sil</button>
+    </form>
+    <a asp-action="Index" class="btn btn-secondary">İptal</a>
+</div>

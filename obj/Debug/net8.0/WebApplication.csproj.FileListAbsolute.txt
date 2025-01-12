@@ -1,0 +1,8 @@
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.csproj.AssemblyReference.cache
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cache
+G:\Tugas Joki\Tugas_Baru\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cs

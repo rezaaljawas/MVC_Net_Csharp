@@ -1,0 +1,55 @@
+﻿@model WebApplication.Models.Urun
+
+@{
+    ViewData["Title"] = "Ürünü Düzenle";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center mb-4">Ürünü Düzenle</h1>
+
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h4>Ürün Bilgileri</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Duzenle">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group">
+                    <label asp-for="Adi" class="font-weight-bold">Ürün Adı</label>
+                    <input asp-for="Adi" class="form-control" />
+                    <span asp-validation-for="Adi" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Aciklama" class="font-weight-bold">Açıklama</label>
+                    <input asp-for="Aciklama" class="form-control" />
+                    <span asp-validation-for="Aciklama" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Fiyat" class="font-weight-bold">Fiyat</label>
+                    <input asp-for="Fiyat" class="form-control" />
+                    <span asp-validation-for="Fiyat" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Stok" class="font-weight-bold">Stok</label>
+                    <input asp-for="Stok" class="form-control" />
+                    <span asp-validation-for="Stok" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Kategori" class="font-weight-bold">Kategori</label>
+                    <input asp-for="Kategori" class="form-control" />
+                    <span asp-validation-for="Kategori" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <button type="submit" class="btn btn-primary">Kaydet</button>
+                    <a asp-action="Index" class="btn btn-secondary">İptal</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

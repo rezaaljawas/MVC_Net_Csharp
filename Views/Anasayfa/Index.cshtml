@@ -1,0 +1,42 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Shared layout path
+    ViewData["Title"] = "Çevrimiçi Pazar Yeri - Anasayfa";
+}
+
+<div class="hero text-center text-white d-flex align-items-center justify-content-center flex-column"
+     style="background: url('@Url.Content("~/images/marketplace-banner.jpg")') no-repeat center center/cover; height: 70vh; padding: 2rem;">
+    <h1 class="display-4 fw-bold">Hoşgeldiniz Çevrimiçi Pazar Yeri</h1>
+    <p class="lead mb-4">Türkiye'nin en güvenilir alışveriş platformunda ürünlerinizi kolayca satın alın ve satın.</p>
+    <div>
+        <a asp-area="" asp-controller="Hesap" asp-action="KayitOl" class="btn btn-primary btn-lg">Hemen Kayıt Olun</a>
+    </div>
+</div>
+
+<section class="features-section py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-5 fw-bold">Neden Bizi Seçmelisiniz?</h2>
+        <div class="row text-center">
+            <div class="col-md-4 feature">
+                <img src="~/images/secure-payment.png" alt="Secure Payment" class="mb-3" style="width: 80px;">
+                <h3 class="h5 fw-bold">Güvenli Ödeme</h3>
+                <p class="text-muted">Tüm işlemleriniz 256-bit şifreleme ile korunur.</p>
+            </div>
+            <div class="col-md-4 feature">
+                <img src="~/images/shipping.png" alt="Fast Shipping" class="mb-3" style="width: 80px;">
+                <h3 class="h5 fw-bold">Hızlı Kargo</h3>
+                <p class="text-muted">Hızlı ve güvenilir teslimat seçenekleri.</p>
+            </div>
+            <div class="col-md-4 feature">
+                <img src="~/images/support.png" alt="Customer Support" class="mb-3" style="width: 80px;">
+                <h3 class="h5 fw-bold">24/7 Destek</h3>
+                <p class="text-muted">Size yardımcı olmak için her zaman buradayız.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="footer bg-dark text-white py-3">
+    <div class="container text-center">
+        &copy; @DateTime.Now.Year Çevrimiçi Pazar Yeri. Tüm Hakları Saklıdır.
+    </div>
+</footer>

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\hesap\\kayitol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\hesap\\kayitol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\models\\kayitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:models\\kayitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\models\\girisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:models\\girisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\controllers\\hesapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:controllers\\hesapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\hesap\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\hesap\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\urunler\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\urunler\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\urunler\\olustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\urunler\\olustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\urunler\\detaylar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\urunler\\detaylar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\urunler\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\urunler\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\urunler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\urunler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\migrations\\marketplacecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:migrations\\marketplacecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\migrations\\20250112124948_updateidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:migrations\\20250112124948_updateidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\migrations\\20250112054948_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:migrations\\20250112054948_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\data\\marketplacevericontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:data\\marketplacevericontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\migrations\\20250112113918_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:migrations\\20250112113918_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|g:\\tugas joki\\tugas_baru\\webapplication\\migrations\\20250112054948_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66FBD-8503-4F9C-ACC8-16446B384338}|Web_Application.csproj|solutionrelative:migrations\\20250112054948_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urunler\\Sil.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Sil.cshtml",
+              "RelativeToolTip": "Views\\Urunler\\Sil.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:25:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KayitViewModel.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\KayitViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\KayitViewModel.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\KayitViewModel.cs",
+              "RelativeToolTip": "Models\\KayitViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:08:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "Models\\Urun.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\Urun.cs",
+              "RelativeToolTip": "Models\\Urun.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:07:08.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HesapController.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Controllers\\HesapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HesapController.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Controllers\\HesapController.cs",
+              "RelativeToolTip": "Controllers\\HesapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:52:33.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KayitOl.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Hesap\\KayitOl.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hesap\\KayitOl.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Hesap\\KayitOl.cshtml",
+              "RelativeToolTip": "Views\\Hesap\\KayitOl.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:56:20.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GirisYap.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Hesap\\GirisYap.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hesap\\GirisYap.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Hesap\\GirisYap.cshtml",
+              "RelativeToolTip": "Views\\Hesap\\GirisYap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:52:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GirisViewModel.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\GirisViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\GirisViewModel.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\GirisViewModel.cs",
+              "RelativeToolTip": "Models\\GirisViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:07:42.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Anasayfa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Anasayfa\\Index.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Anasayfa\\Index.cshtml",
+              "RelativeToolTip": "Views\\Anasayfa\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:25:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detaylar.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Detaylar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urunler\\Detaylar.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Detaylar.cshtml",
+              "RelativeToolTip": "Views\\Urunler\\Detaylar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:27:40.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UrunlerController.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Controllers\\UrunlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrunlerController.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Controllers\\UrunlerController.cs",
+              "RelativeToolTip": "Controllers\\UrunlerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wGMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:57:47.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Duzenle.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Duzenle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urunler\\Duzenle.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Duzenle.cshtml",
+              "RelativeToolTip": "Views\\Urunler\\Duzenle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:28:23.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Olustur.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Olustur.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urunler\\Olustur.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Olustur.cshtml",
+              "RelativeToolTip": "Views\\Urunler\\Olustur.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:21:06.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urunler\\Index.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Urunler\\Index.cshtml",
+              "RelativeToolTip": "Views\\Urunler\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:58:03.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarketplaceContextModelSnapshot.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\MarketplaceContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MarketplaceContextModelSnapshot.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\MarketplaceContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MarketplaceContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:07:36.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250112124948_UpdateIdentitySchema.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112124948_UpdateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250112124948_UpdateIdentitySchema.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112124948_UpdateIdentitySchema.cs",
+              "RelativeToolTip": "Migrations\\20250112124948_UpdateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:49:48.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250112054948_InitialCreate.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112054948_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250112054948_InitialCreate.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112054948_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250112054948_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:31:39.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnasayfaController.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Controllers\\AnasayfaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnasayfaController.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Controllers\\AnasayfaController.cs",
+              "RelativeToolTip": "Controllers\\AnasayfaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:52:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MarketplaceVeriContext.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Data\\MarketplaceVeriContext.cs",
+              "RelativeDocumentMoniker": "Data\\MarketplaceVeriContext.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Data\\MarketplaceVeriContext.cs",
+              "RelativeToolTip": "Data\\MarketplaceVeriContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:05:27.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T13:22:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:07:32.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:31:54.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:32:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T12:43:02.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250112113918_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112113918_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250112113918_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112113918_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250112113918_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:17:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250112054948_InitialCreate.Designer.cs",
+              "DocumentMoniker": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112054948_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250112054948_InitialCreate.Designer.cs",
+              "ToolTip": "G:\\Tugas Joki\\Tugas_Baru\\WebApplication\\Migrations\\20250112054948_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250112054948_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:16:47.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
